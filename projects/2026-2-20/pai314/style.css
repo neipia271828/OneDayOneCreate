@@ -1,0 +1,30 @@
+:root {
+  --slidev-theme-primary: #38bdf8;
+  --slidev-theme-accent: #0ea5e9;
+}
+
+.slidev-layout {
+  --at-apply: text-[#1e293b];
+}
+
+.slidev-layout h1 {
+  color: #0284c7;
+}
+
+.slidev-layout h2,
+.slidev-layout h3 {
+  color: #0369a1;
+}
+
+.slidev-layout a {
+  color: #0ea5e9;
+}
+
+.slidev-layout blockquote {
+  border-left-color: #38bdf8;
+  background: rgba(56, 189, 248, 0.08);
+}
+
+.slidev-icon-btn:hover {
+  color: #0ea5e9;
+}
