@@ -1,0 +1,4 @@
+interface:
+  display_name: "Init Project"
+  short_description: "MANAGEMENTエージェントチームシステムを新規プロジェクトにスキャフォールドする。"
+  default_prompt: "Use $init-project to scaffold the MANAGEMENT agent team system into a new project."
